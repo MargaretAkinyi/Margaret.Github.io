@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF"8>                                                                                                                                                                                                                     
+<h1>Margaret Akinyi</h1>
+<img src="maggy.jpg"
+</head>
+
+<body>
+<h1>summary<h2>
+<h4>I am a committment individual with knowledge in game development.<h4>
+   <hr>
+<h1>Education<h1>
+  <h4>I am a high school student- At KGSA (2016-2021)</h4>
+  <h4>when i grow up i would like to be an ophthalmologist.<h4>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQjAFqRWvUrYfP23AAPoDYznJZgGEEdNwYJeYENSrrm5ZToRsoVyJHVA&usqp=CAE&s">
+     <hr>
+   <h1>Work Experience</h1>
+   
+       
+     <h4>I am a web developer.</h4>
+   <p>
+    
+<h4>And i am still training on how to create a perfect Website.<h4>
+<h1>Skills</h1>
+<hr>
+<h4>Computer Science</h4>
+<h4>Programing Skills</h4>
+<hr>
+<h1>Awards and Certifications</h1>
+<
+
+
